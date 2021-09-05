@@ -1,0 +1,15 @@
+# In repository we don't need to have:
+# Compiled object files
+*.o
+# files with .pro.user suffix
+*.pro.user
+# personal IDE config files
+*.idea
+venv/
+# build output directories
+/bin
+/out
+/target
+# files generated at runtime
+*.log
+
